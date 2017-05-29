@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4659FAD6985F8FC25C24A03BFBC051E697F9657D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4659FAD6985F8FC25C24A03BFBC051E697F9657D" : 9223372036854775807,
+    "516C9002B92077728B88DAF8011F0928C5D77933" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B26E7DE9-196E-400F-AFE8-832D65EA4DED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4659FAD6985F8FC25C24A03BFBC051E697F9657D" : "CustomRangeSliderTryoutSwift\/",
+    "516C9002B92077728B88DAF8011F0928C5D77933" : "BikeOrNot\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CustomRangeSliderTryoutSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CustomRangeSliderTryoutSwift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:joelconnects\/CustomRangeSliderTryoutSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4659FAD6985F8FC25C24A03BFBC051E697F9657D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:joelconnects\/BikeOrNot.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "516C9002B92077728B88DAF8011F0928C5D77933"
+    }
+  ]
+}
